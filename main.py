@@ -18,5 +18,4 @@ for img in images:
     convertImage(img, img.split('.')[-1])
     fileCounter += 1
 
-
 print(f"\n{fileCounter} adet görsel başarıyla dönüştürüldü\n")
